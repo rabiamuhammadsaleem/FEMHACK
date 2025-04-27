@@ -143,6 +143,35 @@
         font-size: 16px;
     }
 }
+/* client section */
+.clients-section {
+    text-align: center;
+    padding: 40px 5%;
+}
+
+.section-title {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.section-description {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.client-logos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.client-logos img {
+    height: 40px;
+}
+
+
+
 /* cards section */
 .container {
     text-align: center;
